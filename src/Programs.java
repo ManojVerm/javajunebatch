@@ -1,5 +1,5 @@
 public class Programs {
     public static void main(String[] args) {
-        System.out.println("object oriented programming=====");
+        System.out.println("java junior devloper batch=====");
     }
 }
